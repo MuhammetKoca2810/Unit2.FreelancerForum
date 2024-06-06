@@ -67,5 +67,5 @@ document.addEventListener("DOMContentLoaded", () => {
   setTimeout(() => {
     clearInterval(intervalId);
     console.log("Stopped adding new freelancers");
-  }, 30000);
+  }, 60000);
 });
